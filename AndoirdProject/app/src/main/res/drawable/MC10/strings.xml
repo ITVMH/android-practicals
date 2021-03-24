@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MC10</string>
+    <array name="nano">
+        <item>@drawable/nano1</item>
+        <item>@drawable/nano2</item>
+        <item>@drawable/nano3</item>
+        <item>@drawable/nano4</item>
+    </array>
+    <array name="kwid">
+        <item>@drawable/kwid1</item>
+        <item>@drawable/kwid2</item>
+        <item>@drawable/kwid3</item>
+        <item>@drawable/kwid4</item>
+    </array>
+    <array name="scorpio">
+        <item>@drawable/scorpio1</item>
+        <item>@drawable/scorpio2</item>
+        <item>@drawable/scorpio3</item>
+        <item>@drawable/scorpio4</item>
+    </array>
+    <array name="hondacity">
+        <item>@drawable/hondacity1</item>
+        <item>@drawable/hondacity2</item>
+        <item>@drawable/hondacity3</item>
+        <item>@drawable/hondacity4</item>
+    </array>
+    <array name="odi">
+        <item>@drawable/odi1</item>
+        <item>@drawable/odi2</item>
+        <item>@drawable/odi3</item>
+        <item>@drawable/odi4</item>
+    </array>
+    <array name="swift">
+        <item>@drawable/swift1</item>
+        <item>@drawable/swift2</item>
+        <item>@drawable/swift3</item>
+        <item>@drawable/swift4</item>
+    </array>
+</resources>

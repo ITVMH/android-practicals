@@ -1,0 +1,34 @@
+{
+	"students": {
+		"student": [
+			{
+				"id": "1",
+				"name": "Dhaval",
+				"surname": "Parmar"
+
+			},
+			{
+				"id": "2",
+				"name": "Anjali",
+				"surname": "Patel"
+
+			},
+			{
+				"id": "3",
+				"name": "Aakash",
+				"surname": "Patel"
+
+			},
+			{
+				"id": "4",
+				"name": "Jaydeep",
+				"surname": "Solanki"
+			},
+			{
+				"id": "5",
+				"name": "Sachin",
+				"surname": "Miyani"
+			}
+		]
+	}
+}

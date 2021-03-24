@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">195690693051_ANDROID</string>
+    <string name="name">Hello World!</string>
+    <string name="cancel"> Cancel </string>
+    <string name="password">password </string>
+    <string name="username"> username</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Country_list">
+
+        <item>India</item>
+        <item>Bangladesh</item>
+        <item>Srilanka</item>
+        <item>Japan</item>
+        <item>United States</item>
+        <item>China</item>
+        <item>Nepal</item>
+
+    </string-array>
+    <string-array name="cars">
+
+        <item>Maruti Suzuki Swift</item>
+        <item>Tata Safari</item>
+        <item>Renault Kiger</item>
+        <item>Jeep Compass</item>
+
+    </string-array>
+    <string-array name="launcheddate">
+
+        <item>Feb 24, 2021</item>
+        <item>Feb 22, 2021</item>
+        <item>Feb 15, 2021</item>
+        <item>Jan 27, 2021</item>
+
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="companyname">
+        <item>Maruti Suzuki </item>
+        <item>Tata </item>
+        <item>Renault  </item>
+        <item>Jeep  </item>
+
+    </string-array>
+
+</resources>
